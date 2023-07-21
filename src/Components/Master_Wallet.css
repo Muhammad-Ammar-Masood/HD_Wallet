@@ -1,0 +1,13 @@
+#masterContainer {
+    background-color: #171717;
+    color: white;
+    border-radius: 10px !important;
+    box-shadow: rgba(161, 159, 159, 0.4) 0px 2px 4px, rgba(149, 148, 148, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+#childbtn {
+    margin-left: -7rem !important;
+    margin-bottom: -14.8rem;
+    font-size: 1.2rem;
+}
+
